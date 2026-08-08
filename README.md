@@ -14,7 +14,7 @@
 - Developed as part of **Smart India Hackathon (SIH) 2025**
 
 - Further improved and enhanced in **Smart India Hackathon (SIH) 2026**
-'
+
 ## 👥 Contributors (2025-2026)
 - **M Punith Reddy**
 - **Thaejashree Karthika Chidambaram**
