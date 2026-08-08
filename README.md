@@ -8,4 +8,19 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+
+## 🏆 Hackathon
+
+- Developed as part of **Smart India Hackathon (SIH) 2025**
+
+- Further improved and enhanced in **2026**
+'
+## 👥 Contributors (2025-2026)
+- **M Punith Reddy**
+- **Thaejashree Karthika Chidambaram**
+- **Kawini G**
+- **Upakkara Dattu**
+- **Devika Prathap**
+- **Shobitha G**
+- **Varun TG**
+- **DSVG Pranay**
