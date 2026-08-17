@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-This is a code bundle for Travel App Voyager. The original project is available at (https://boots-eagle-14542674.figma.site/)
+The original project is available at (https://boots-eagle-14542674.figma.site/)
 
 ## About the Project
 
