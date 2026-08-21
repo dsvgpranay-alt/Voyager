@@ -11,24 +11,6 @@ The original project is available at (https://boots-eagle-14542674.figma.site/)
 
 Travel App Voyager is a travel planning platform designed to make the process of planning a trip simpler and more convenient. It brings destination search, itinerary suggestions, and recommendations for hotels and restaurants into one place. The project focuses on providing a clean and responsive interface that allows users to explore a destination and plan their trip without having to switch between multiple platforms.
 
-## 📸 Screenshots
-
-### Market Place
-
-![Market Place](assets/MarketPlace.jpeg)
-
-### Food Corner
-
-![Food Section](assets/Food section.jpeg)
-
-### Travel Safety
-
-![Travel Safety](assets/Travel Safety.jpeg)
-
-### Virtual 360 degree View
-
-![VR view](assets/360 deg.jpeg)
-
 ## Features
 
 The current prototype includes destination search, itinerary suggestions, and recommendations for hotels and restaurants. The interface is designed to be simple, responsive, and easy to navigate. The main idea is to provide users with a single platform for different parts of their travel planning process.
@@ -46,6 +28,25 @@ The prototype was designed using Figma and developed as an interactive web exper
 Run `npm i` to install the dependencies.
 
 Run `npm run dev` to start the development server.
+
+## 📸 Screenshots
+
+### Market Place
+
+![Market Place](assets/MarketPlace.jpeg)
+
+### Food Corner
+
+![Food Section](assets/Food_section.jpeg)
+
+### Travel Safety
+
+![Travel Safety](assets/Travel_Safety.jpeg)
+
+### Virtual 360 degree View
+
+![VR view](assets/VR_view.jpeg)
+
 
 ## Future Scope
 
